@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2c162b02e67995cdfa3cdc29",
+  "owner": "ju79qjwha",
+  "repo": "page-20bffdf002182cdd96a4585e",
+  "title": "YukiMo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "20bffdf002182cdd96a4585e",
+      "a": "YukiMo",
+      "b": "机场官网线路发布页",
+      "entity": "YukiMo",
+      "brand": "YukiMo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fc6094dbb9096192cef92a6f3594c71356954e21fcac3f808ae01f3f2d12ef82",
+      "content": {
+        "primary_entity": "YukiMo",
+        "keyword1": "YukiMo",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，主要围绕品牌海外加速器的套餐配置与日常使用展开。YukiMo 的订阅分为基础版、旗舰版和团队版，月付价格从 ¥15 到 ¥85 不等，分别对应 100GB、300GB 和 1000GB 的每月流量，以及 3 台、5 台和 20 台设备同时在线。旗舰版包含 IPLC 专线节点与流媒体解锁，适合对延迟敏感的游戏和影音需求；团队版提供高带宽节点和定制路由，便于多人共享。客户端覆盖桌面和移动端主流系统，导入订阅后即可在所选设备上启用。",
+          "AI_HERO_SUBTITLE": "按设备选套餐，按周期付订阅",
+          "AI_HERO_INTRO": "YukiMo 品牌海外加速器提供基础版、旗舰版、团队版三档订阅，流量、设备数和线路类型逐级提升。选择时先确认常用设备数量，再比对每月流量需求，最后按年付或月付结算。客户端支持桌面端与移动端导入订阅，配置完成后即可在对应设备上使用。",
+          "AI_VISUAL_TITLE": "YukiMo 套餐与客户端",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "年付价格更省",
+          "AI_HIGHLIGHT_3": "多设备同步在线",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量和线路类型出发，快速判断哪一档订阅更合适。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻量使用，旗舰版 300GB 兼顾影音与游戏，团队版 1000GB 面向多人共享场景。",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备在线，旗舰版 5 台，团队版 20 台。按日常同时使用的手机、电脑和路由器数量选择即可。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可减少续费操作。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，导入订阅链接后即可完成配置；不同平台客户端界面和操作路径存在差异，按客户端文档逐步设置即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版和团队版的月付与年付价格、流量额度及在线设备数，结合自身用量做出选择。",
+          "AI_GUIDE_TITLE": "三步完成订阅使用",
+          "AI_GUIDE_INTRO": "从挑套餐开始，到把 YukiMo 订阅跑在常用设备上，大致分三件事。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "对照基础版、旗舰版、团队版的流量与设备数，确定符合使用场景的订阅档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持范围内，并核对在线设备数量是否满足需求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端，按文档导入订阅信息，完成节点选择与连接测试。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "YukiMo 三大套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "看设备数和流量两项。单人少量使用选基础版，100GB 和 3 台设备够用；日常影音加游戏选旗舰版，300GB 和 5 台设备余量更足；多人或团队共享选团队版，1000GB 和 20 台设备支持范围更广。",
+          "AI_FAQ_QUESTION_2": "一台订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果日常需要手机、电脑、平板同时连接，建议按实际在线数量选择对应档位，避免超出限制。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月结算，适合短期体验；年付一次性支付全年费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于降低月均支出，适合计划长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "客户端支持哪些设备系统？",
+          "AI_FAQ_ANSWER_4": "桌面端和移动端均有对应客户端可供选择。具体系统版本和安装方式请参考客户端文档，不同平台的操作步骤存在差异，按文档指引导入订阅即可。",
+          "AI_FAQ_QUESTION_5": "订阅导入后连不上怎么排查？",
+          "AI_FAQ_ANSWER_5": "先确认订阅是否成功导入且未过期，再检查当前设备数是否超出套餐上限。可以尝试切换节点，或重启客户端后重新连接，仍无法使用时可通过工单渠道反馈。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅使用",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑好档位，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "quanshanrc.cn",
+    "host": "quanshanrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "4e16cc072a3cdee2b1cb34dca0632757a3c174f1ef3bc632767446944079321c",
+    "sitemap.xml": "fcbff6d9d31957e206490d0cf3c5972870c0f7e0c29036f34999f3083d104ce1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50e5f561a3cac5926cd306598d586c0ff681040853f0c4d42ffbcb38566eb42d",
+    "robots.txt": "f50374535e29b5ebbe030d0a9032a140c292689b7281c121635c0cd90b4b1c21",
+    "457ce8152dc4e8f189d54ac64215bf3f.txt": "e926bf4b9a0dc31661e6ac1ee29b9824f97f60830be96b391534abf7278e0298"
+  },
+  "revision": "e97f448757ed4853a0e2c4e644d95c4acfe79366655b8c8867cd0b6bfe0d75b2"
+}
